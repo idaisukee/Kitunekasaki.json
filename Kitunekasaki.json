@@ -3467,34 +3467,6 @@
             "type": 1
         },
         {
-            "id": 16,
-            "title": "Percent",
-            "events": [
-                {
-                    "code": "E1",
-                    "event": 1,
-                    "timer": 10
-                },
-                {
-                    "code": "22",
-                    "event": 1,
-                    "timer": 10
-                },
-                {
-                    "code": "22",
-                    "event": 0,
-                    "timer": 10
-                },
-                {
-                    "code": "E1",
-                    "event": 0,
-                    "timer": 10
-                }
-            ],
-            "repeats": 2,
-            "type": 1
-        },
-        {
             "id": 17,
             "title": "And",
             "events": [
