@@ -3348,7 +3348,7 @@
                 {
                     "code": "E1",
                     "event": 0,
-                    "timer": 1000
+                    "timer": 100
                 }
             ],
             "repeats": 2,
