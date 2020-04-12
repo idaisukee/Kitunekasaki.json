@@ -925,11 +925,11 @@
                         "default_bind": "4",
                         "bind": "4",
                         "fn": "3A",
-                        "fn1": "0",
+                        "fn1": "Macro",
                         "pn": "4A",
                         "bind_macro": -1,
                         "fn_macro": -1,
-                        "fn1_macro": -1,
+                        "fn1_macro": 8,
                         "pn_macro": -1
                     },
                     {
@@ -1117,11 +1117,11 @@
                         "default_bind": "9",
                         "bind": "18",
                         "fn": "3D",
-                        "fn1": "0",
+                        "fn1": "Macro",
                         "pn": "4D",
                         "bind_macro": -1,
                         "fn_macro": -1,
-                        "fn1_macro": -1,
+                        "fn1_macro": 9,
                         "pn_macro": -1
                     },
                     {
