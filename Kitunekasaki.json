@@ -668,11 +668,11 @@
                         "bind": "F",
                         "fn": "27",
                         "fn1": "0",
-                        "pn": "0",
+                        "pn": "Macro",
                         "bind_macro": -1,
                         "fn_macro": -1,
                         "fn1_macro": -1,
-                        "pn_macro": -1
+                        "pn_macro": 35
                     },
                     {
                         "default_fn": "46",
@@ -1502,11 +1502,11 @@
                         "bind": "16",
                         "fn": "30",
                         "fn1": "0",
-                        "pn": "0",
+                        "pn": "Macro",
                         "bind_macro": -1,
                         "fn_macro": -1,
                         "fn1_macro": -1,
-                        "pn_macro": -1
+                        "pn_macro": 36
                     },
                     {
                         "default_fn": "49",
@@ -2272,11 +2272,11 @@
                         "bind": "1D",
                         "fn": "L3",
                         "fn1": "0",
-                        "pn": "0",
+                        "pn": "Macro",
                         "bind_macro": -1,
                         "fn_macro": -1,
                         "fn1_macro": -1,
-                        "pn_macro": -1
+                        "pn_macro": 37
                     },
                     {
                         "default_fn": "L3",
@@ -3847,6 +3847,120 @@
                 },
                 {
                     "code": "L1",
+                    "event": 0,
+                    "timer": 10
+                }
+            ],
+            "repeats": 2,
+            "type": 1
+        },
+        {
+            "id": 35,
+            "title": "C-M-a",
+            "events": [
+                {
+                    "code": "E0",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "E2",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "4",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "4",
+                    "event": 0,
+                    "timer": 10
+                },
+                {
+                    "code": "E2",
+                    "event": 0,
+                    "timer": 10
+                },
+                {
+                    "code": "E0",
+                    "event": 0,
+                    "timer": 10
+                }
+            ],
+            "repeats": 2,
+            "type": 1
+        },
+        {
+            "id": 36,
+            "title": "C-M-b",
+            "events": [
+                {
+                    "code": "E0",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "E2",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "5",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "5",
+                    "event": 0,
+                    "timer": 10
+                },
+                {
+                    "code": "E2",
+                    "event": 0,
+                    "timer": 10
+                },
+                {
+                    "code": "E0",
+                    "event": 0,
+                    "timer": 10
+                }
+            ],
+            "repeats": 2,
+            "type": 1
+        },
+        {
+            "id": 37,
+            "title": "C-M-c",
+            "events": [
+                {
+                    "code": "E0",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "E2",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "6",
+                    "event": 1,
+                    "timer": 10
+                },
+                {
+                    "code": "6",
+                    "event": 0,
+                    "timer": 10
+                },
+                {
+                    "code": "E2",
+                    "event": 0,
+                    "timer": 10
+                },
+                {
+                    "code": "E0",
                     "event": 0,
                     "timer": 10
                 }
